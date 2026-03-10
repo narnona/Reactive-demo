@@ -28,6 +28,8 @@ This project demonstrates a cross-chain messaging system using Foundry and the R
 ```bash
 forge --version
 node --version
+git clone https://github.com/narnona/Reactive-demo.git
+cd Reactive-demo
 ```
 
 ## 2. Installation
